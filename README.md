@@ -1,9 +1,11 @@
 # 👋 Hi, I'm Vraj Mevawala!
 
 🎓 **About Me**
-- I am currently pursuing **B.Tech in Computer Engineering**.
-- Passionate about **UI/UX design, software development**.
-- I enjoy solving real-world problems and building innovative solutions.
+- B.Tech Computer Engineering Student  
+- Passionate about UI/UX Design, Full-Stack Development, and AI/ML  
+- Love building innovative, scalable, and user-centric applications  
+- Skilled in modern web technologies, software development, and problem solving  
+- Continuously learning new technologies and exploring real-world solutions through development
 
 💻 **Skills & Technologies**
 
@@ -11,7 +13,7 @@
 
 📫 **Connect with Me**
 - LinkedIn: [linkedin.com/in/vraj-mevawala](https://www.linkedin.com/in/vraj-mevawala-65854a284/)
-- Email: vrajmevawala0007@gmail.com
+- Email: mevawalavraj@gmail.com
   
 ⚡ **Fun Fact**
 - I love exploring new technologies and I'm always up for a good coding challenge! 💻
